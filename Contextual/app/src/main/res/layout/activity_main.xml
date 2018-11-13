@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/rootview">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enable Contextual Action mode"
+            android:layout_centerInParent="true"
+            android:id="@+id/showContextual"/>
+
+        <Button
+            android:id="@+id/bt_pop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="132dp"
+            android:layout_marginEnd="146dp"
+            android:layout_marginRight="146dp"
+            android:onClick="popupmenu"
+            android:text="Popup Menu" />
+    </RelativeLayout>>
+</android.support.design.widget.CoordinatorLayout>

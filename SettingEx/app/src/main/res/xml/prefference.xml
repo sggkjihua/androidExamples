@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="USER"
+        android:title="USER">
+        <EditTextPreference
+            android:defaultValue="Jihua Xu"
+            android:icon="@mipmap/ic_launcher"
+            android:key="edit_text_name"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:summary="Setting your name here"
+            android:title="User Name" />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@drawable/ic_launcher_background"
+            android:key="switch_preference_1"
+            android:summary="Visable to others"
+            android:summaryOff="Nonvisable"
+            android:summaryOn="Visable"
+            android:switchTextOff="OFF"
+            android:switchTextOn="On"
+            android:title="Switch preference" />
+    </PreferenceCategory>
+</PreferenceScreen>

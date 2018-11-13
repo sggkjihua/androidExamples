@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DialogApp</string>
+    <string-array name="time">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Yesterday</item>
+    </string-array>
+
+    <string-array name="subjects">
+        <item>ECE</item>
+        <item>SYDE</item>
+        <item>CS</item>
+        <item>ME</item>
+        <item>EE</item>
+        <item>MATH</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:icon="@mipmap/ic_launcher"
+        android:title="ListPreference"
+        android:summary="ListPreference summary"
+        android:dialogTitle="Favourite Games"
+        android:key="key_listpreference"
+        android:entries="@array/game"
+        android:entryValues="@array/game_index"
+        />
+</PreferenceScreen>

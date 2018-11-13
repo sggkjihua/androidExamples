@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecycleEx</string>
+    <string-array name = "andriod_versions">
+        <item>Xujihua</item>
+        <item>Xujihua1</item>
+        <item>Xujihua2</item>
+        <item>Xujihua3</item>
+        <item>Xujihua4</item>
+        <item>Xujihua5</item>
+        <item>Xujihua6</item>
+        <item>Xujihua7</item>
+        <item>Xujihua8</item>
+        <item>Xujihua9</item>
+        <item>Xujihua10</item>
+        <item>Xujihua11</item>
+    </string-array>
+</resources>

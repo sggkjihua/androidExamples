@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/person"
+        android:icon="@drawable/ic_person"
+        android:title="Edit File"/>/>
+    <item
+        android:id="@+id/camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Take Shot"
+        />
+    <item
+        android:id="@+id/bluetooth"
+        android:icon="@drawable/ic_bluetooth"
+        android:title="Connect"
+        />
+</group>
+
+</menu>

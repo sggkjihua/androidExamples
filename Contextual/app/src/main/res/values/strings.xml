@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contextual</string>
+    <string-array name="subjects">
+        <item>ECE</item>
+        <item>SYDE</item>>
+        <item>CS</item>>
+        <item>MATH</item>>
+        <item>ME</item>>
+        <item>EE</item>>
+    </string-array>
+</resources>

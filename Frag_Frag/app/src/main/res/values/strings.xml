@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Frag_Frag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="game">
+        <item>Dota</item>
+        <item>Dota2</item>
+        <item>NBA2K10</item>
+        <item>FIFA2K10</item>
+    </string-array>
+    <string-array name="game_index">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

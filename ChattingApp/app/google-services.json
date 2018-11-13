@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "242340465279",
+    "firebase_url": "https://chatapp-2404c.firebaseio.com",
+    "project_id": "chatapp-2404c",
+    "storage_bucket": "chatapp-2404c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242340465279:android:2a48d3c8caef5ea6",
+        "android_client_info": {
+          "package_name": "com.example.think.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242340465279-2i5o4ef6ck1f4ku3t1j3siavtf3uoa9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPp-zj6oOPpAK9KgXIUB4Moi-57QbkEWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
